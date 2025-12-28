@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+joblib
+speechrecognition
+pydub
+youtube-comment-downloader
+matplotlib
+wordcloud
+transformers
+torch
