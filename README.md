@@ -38,8 +38,8 @@ pip install -r requirements.txt
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/sentiment-analysis-project.git
-cd sentiment-analysis-project
+git clone https://github.com/roshan7783/Sentiment-Analyzer.git
+cd Sentiment-Analyzer
 ```
 
 2. **Install the dependencies:**
